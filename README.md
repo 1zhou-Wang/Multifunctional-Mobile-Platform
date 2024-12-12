@@ -8,9 +8,9 @@
 
 
 ## 📣 News
-* **[2024/5/17]** 🚀 Good news for winning the 3rd prize at AXS Sim2Real Challenge (Simulation Stage)!
-* **[2024/5/17]** 🚀 Good news for winning the 2nd prize at AXS Sim2Real Challenge (Onsite) held during ICRA 2024, Yokohama!
-* **[2024/12/12]** ⭐️ We will be having roadshow on Dec. 12th! Welcome to HKUST(GZ) E2 6F Human-Robot Interaction System Lab for a visit!
+* **[2024/5/17]** 🚀 Good news for winning the 3rd prize at AXS Sim2Real Challenge at Simulation Stage!
+* **[2024/5/17]** 🚀 Good news for winning the 2nd prize at AXS Sim2Real Challenge (Onsite) held during ICRA 2024 at Yokohama!
+* **[2024/12/12]** ⭐️ We will be having roadshow on Dec. 12th, welcome to HKUST(GZ) E2 6F Human-Robot Interaction System Lab for a visit!
 
 ## 🕹️ Prototype
 
